@@ -1,0 +1,19 @@
+
+*caso simple (solo sueldo):
+
+	-isr1 = Primer qna se proyecta al mes y el isr (del mes proyectado) se divide entre 2.
+
+	(ajuste : )
+	-isr2 = 1qna + 2qna (base gravable) -> isrMensual. a este ultimo se le descuenta isr1.
+
+*Caso hrs Extra:
+
+	isr1 = "caso simple".
+
+	isr2 = 1qna + 2qna +(hrs_extras) -> isrMensaul. a este le descuenta isr1.
+
+*Caso Bono
+
+	isr1 = 1qna + bono -> proyectdo al mes -> isrMensual y lo dividimos por 2.
+
+	isr2 = 1qna + 2qna +bonos -> isrMensual. a este se le descuenta el primero.
